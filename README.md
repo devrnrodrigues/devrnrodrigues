@@ -66,29 +66,36 @@ Tenho interesse em engenharia de software, arquitetura de sistemas e no desenvol
 
 Quero destacar alguns dos meus projetos principais:
 
+#### Meu Portfólio  
+Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
+**Stack:** HTML • CSS • JavaScript  
+[![Demo Online](https://img.shields.io/badge/portfolio-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)
 
-#### 👨‍💻 [Meu Portfólio](https://devrenanrodrigues.vercel.app/) : Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
-**Stack:** HTML • CSS • JavaScript
+#### ListProgress  
+Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
+**Stack:** React • Node.js • PostgreSQL  
+[![Demo Online](https://img.shields.io/badge/listprogress-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)
 
-#### 💻 [ListProgress](https://listprogress.vercel.app/) : Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
-**Stack:** React • Node.js • PostgreSQL
+#### Music Analyser  
+Sistema desktop para análise e exploração de dados musicais.  
+**Stack:** Python • DuckDB • Pandas  
+[![Demo Online](https://img.shields.io/badge/musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
 
-#### 🎵 [Music Analyser](https://musicanalyser.vercel.app/) : Sistema desktop para análise e exploração de dados musicais.  
-**Stack:** Python • DuckDB • Pandas
-
-#### 💪 [TrainingManager](https://github.com/rngrodrigues) : Sistema mobile para gerenciamento de treinos. *(Em desenvolvimento ativo 🚀)*  
-**Stack:** React Native • Expo • TypeScript • SQLite
-
----
+#### TrainingManager  
+Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
+**Stack:** React Native • Expo • TypeScript • SQLite  
+[![Demo Online](https://img.shields.io/badge/TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rngrodrigues)
 
 <div>
+  <h2 align="center">
+ 📩 CONTATO:
+ </h2>
 
-<p align="center">
+<p align="center"style="margin: 50px;>
   <span><a href="https://wa.me/5521976333733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></span>
   <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a></span>
   <span><a href="mailto:devrenanrodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></span>
 </p>
-
 </div>
 
 <div align="center">
@@ -96,7 +103,9 @@ Quero destacar alguns dos meus projetos principais:
 <img src="https://komarev.com/ghpvc/?username=rngrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
      alt="Visitantes" 
      style="margin: 50px;" />
-     
+
+---
+  
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,120:EAEAEA&height=150&section=header&animation=fadeIn" 
   width="100%"
