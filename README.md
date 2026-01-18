@@ -91,7 +91,7 @@ Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*
  📩 CONTATO:
  </h2>
 
-<p align="center"style="margin: 50px;>
+<p align="center" style="margin: 50px;">
   <span><a href="https://wa.me/5521976333733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></span>
   <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a></span>
   <span><a href="mailto:devrenanrodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></span>
