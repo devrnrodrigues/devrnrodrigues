@@ -93,7 +93,7 @@ Quero destacar alguns dos meus projetos principais:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=joivo&style=flat-square&color=0093E9&label=Visitantes" 
+<img src="https://komarev.com/ghpvc/?username=rngrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
      alt="Visitantes" 
      style="margin: 50px;" />
      
