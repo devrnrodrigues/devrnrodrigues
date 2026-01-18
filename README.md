@@ -69,22 +69,22 @@ Quero destacar alguns dos meus projetos principais:
 #### Meu Portfólio  
 Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
 **Stack:** HTML • CSS • JavaScript  
-[![Demo Online](https://img.shields.io/badge/portfolio-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20portfolio-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)
 
 #### ListProgress  
 Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
 **Stack:** React • Node.js • PostgreSQL  
-[![Demo Online](https://img.shields.io/badge/listprogress-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20listprogress-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)
 
 #### Music Analyser  
 Sistema desktop para análise e exploração de dados musicais.  
 **Stack:** Python • DuckDB • Pandas  
-[![Demo Online](https://img.shields.io/badge/musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
 
 #### TrainingManager  
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
 **Stack:** React Native • Expo • TypeScript • SQLite  
-[![Demo Online](https://img.shields.io/badge/TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rngrodrigues)
+[![Demo Online](https://img.shields.io/badge/acesse%20TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rngrodrigues)
 
 <div>
   <h2 align="center">
