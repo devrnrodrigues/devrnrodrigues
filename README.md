@@ -84,7 +84,7 @@ Sistema desktop para análise e exploração de dados musicais.
 #### TrainingManager  
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
 **Stack:** React Native • Expo • TypeScript • SQLite  
-[![Demo Online](https://img.shields.io/badge/acesse%20TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rngrodrigues)
+[![Demo Online](https://img.shields.io/badge/acesse%20TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues)
 
 <div>
   <h2 align="center">
@@ -100,7 +100,7 @@ Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rngrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
+<img src="https://komarev.com/ghpvc/?username=devrnrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
      alt="Visitantes" 
      style="margin: 50px;" />
 
