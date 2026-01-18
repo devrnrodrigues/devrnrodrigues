@@ -52,7 +52,7 @@
     alt="Most Used Languages"
   />
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rngrodrigues&bg_color=0D1117&color=F5F5F5&line=EAEAEA&point=FFFFFF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devrnrodrigues&bg_color=0D1117&color=F5F5F5&line=EAEAEA&point=FFFFFF&hide_border=true"
     width="600"
     alt="GitHub Activity Graph"
   />
