@@ -8,37 +8,33 @@
   alt="Typing SVG"
 />
 
-<p align="center">
-👋 Entre em contato comigo:
+<p align="left">
+  Olá, me chamo Renan Rodrigues. Estou cursando Análise e Desenvolvimento de Sistemas, com foco em Backend, especialmente em
+  <strong>arquitetura de sistemas</strong>,
+  <strong>escalabilidade</strong>,
+  <strong>performance</strong> e
+  <strong>boas práticas</strong> de programação.
 </p>
-<p align="center">
-  <span><a href="https://wa.me/5521976333733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></span>
-  <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a></span>
-  <span><a href="mailto:devrenanrodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></span>
-</p>
+
 
 </div>
 
 ## 🔧 Tecnologias que costumo usar:
 
-<div align="center">
-
-### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+<div>
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### **Banco de dados**
+### **Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 ### **Ferramentas**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -61,8 +57,6 @@
     alt="GitHub Activity Graph"
   />
 </div>
-
----
 
 ## 👨‍💻 Sobre mim
 
@@ -87,7 +81,13 @@ Quero destacar alguns dos meus projetos principais:
 
 ---
 
-<div align="center">
+<div>
+
+<p align="center">
+  <span><a href="https://wa.me/5521976333733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></span>
+  <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a></span>
+  <span><a href="mailto:devrenanrodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></span>
+</p>
 
 </div>
 
