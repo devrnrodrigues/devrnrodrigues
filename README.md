@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/rngrodrigues/rngrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
+<img src="https://github.com/devrnrodrigues/devrnrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
 <img
@@ -47,7 +47,7 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rngrodrigues&layout=compact&langs_count=6"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devrnrodrigues&layout=compact&langs_count=6"
     width="400"
     alt="Most Used Languages"
   />
@@ -101,7 +101,7 @@ Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=devrnrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
-     alt="Visitantes" 
+     alt="Visitas" 
      style="margin: 50px;" />
 
 ---
