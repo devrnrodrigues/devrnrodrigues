@@ -79,7 +79,7 @@ Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.
 #### Music Analyser  
 Sistema desktop para análise e exploração de dados musicais.  
 **Stack:** Python • DuckDB • Pandas  
-[![Demo Online](https://img.shields.io/badge/acesse%20musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/demo%20musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
 
 #### TrainingManager  
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
