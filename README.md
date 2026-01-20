@@ -100,7 +100,7 @@ Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=devrnrodrigues&style=flat-square&color=0093E9&label=Visitantes" 
+<img src="https://komarev.com/ghpvc/?username=devrnrodrigues&style=flat-square&color=0093E9&label=Visitas" 
      alt="Visitas" 
      style="margin: 50px;" />
 
