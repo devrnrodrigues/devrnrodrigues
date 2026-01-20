@@ -4,7 +4,7 @@
 
 ---
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=Construindo+Sistemas;Desenvolvendo+Solucoes;Pedreiro+de+Software;Codando+Bugs;Opa"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=Construindo+Sistemas;Desenvolvendo+Solucoes;Pedreiro+de+Software"
   alt="Typing SVG"
 />
 
