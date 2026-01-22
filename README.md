@@ -18,13 +18,14 @@
 
 </div>
 
-## 🔧 Tecnologias que costumo usar:
+## 🔧 Tecnologias que costumo usar
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -33,12 +34,13 @@
 ### **Banco de Dados**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ### **Ferramentas**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 
 ## 📈 Atividade no GitHub
@@ -77,7 +79,7 @@ Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.
 
 [![Demo Online](https://img.shields.io/badge/acesse%20listprogress-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)
 
-#### Music Analyser  
+#### MusicAnalyser  
 
 Sistema desktop para análise e exploração de dados musicais.  
 **Stack:** Python • DuckDB • Pandas • Tkinter  
@@ -99,7 +101,7 @@ Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*
 
 <p align="center" style="margin: 50px;">
   <span><a href="https://wa.me/5521976333733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></span>
-  <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a></span>
+  <span><a href="https://www.linkedin.com/in/devrenanrodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white"/></a></span>
   <span><a href="mailto:devrenanrodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a></span>
 </p>
 </div>
