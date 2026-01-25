@@ -86,12 +86,12 @@ Sistema desktop para análise e exploração de dados musicais.
 
 [![Demo Online](https://img.shields.io/badge/demo%20musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
 
-#### TrainingManager  
+#### TrackGym
 
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
 **Stack:** React Native • Expo • TypeScript • SQLite  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20TrainingManager-construção-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues)
+[![Demo Online](https://img.shields.io/badge/acesse%20TrackGym-Em%20construção...-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
 
 
 <div>
