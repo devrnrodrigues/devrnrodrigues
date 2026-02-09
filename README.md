@@ -59,41 +59,46 @@
     alt="GitHub Activity Graph"
   />
 
-## 👨‍💻 Sobre mim
 
-Estou focado na construção de aplicações bem estruturadas, funcionais e escaláveis. Atualmente, desenvolvo projetos próprios com o objetivo de aprofundar conhecimentos técnicos, explorar novas tecnologias e aplicar boas práticas de desenvolvimento.
-
-Tenho interesse em **arquitetura de sistemas** e no desenvolvimento de soluções que resolvam problemas reais.
-
-Quero destacar alguns dos meus projetos principais:
+### Projetos:
 
 #### Meu Portfólio  
 
 Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
 **Stack:** HTML • CSS • JavaScript  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20portfolio-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20portfolio-deploy-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/myportfolio)
+
+---
 
 #### ListProgress  
 
 Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
 **Stack:** TypeScript • Express • Node.js • React • PostgreSQL
 
-[![Demo Online](https://img.shields.io/badge/acesse%20listprogress-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20listprogress-deploy-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/listprogress)
+
+---
 
 #### MusicAnalyser  
 
 Sistema desktop para análise e exploração de dados musicais.  
 **Stack:** Python • DuckDB • Pandas • Tkinter  
 
-[![Demo Online](https://img.shields.io/badge/demo%20musicanalyser-online-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)
+[![Demo Online](https://img.shields.io/badge/acesse%20musicanalyser-demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/musicanalyser)
 
-#### TrackGym
+---
+
+#### TrackGym  
 
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
 **Stack:** React Native • Expo • TypeScript • SQLite  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20TrackGym-Em%20construção...-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
+[![Demo Online](https://img.shields.io/badge/acesse%20TrackGym-Em%20construção...-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
 
 
 <div>
