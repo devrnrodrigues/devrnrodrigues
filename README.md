@@ -20,7 +20,7 @@
 
 </div>
 
-## 🔧 Tecnologias que utilizo
+# 🔧 Tecnologias que utilizo
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -44,31 +44,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
+---
 
-## 📈 Atividade no GitHub
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devrnrodrigues&layout=compact&langs_count=6"
-    width="400"
-    alt="Most Used Languages"
-  />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devrnrodrigues&bg_color=0D1117&color=F5F5F5&line=EAEAEA&point=FFFFFF&hide_border=true"
-    width="600"
-    alt="GitHub Activity Graph"
-  />
-
-
-## 💻 Projetos:
+# 💻 Projetos:
 
 #### Meu Portfólio  
 
 Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
 **Stack:** HTML • CSS • JavaScript  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20portfolio-deploy-green?style=for-the-badge&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/myportfolio)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://devrenanrodrigues.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/myportfolio)
 
 ---
 
@@ -77,8 +63,8 @@ Sistema web para apresentação de projetos, habilidades, contato e informaçõe
 Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
 **Stack:** TypeScript • Express • Node.js • React • PostgreSQL
 
-[![Demo Online](https://img.shields.io/badge/acesse%20listprogress-deploy-green?style=for-the-badge&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/listprogress)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://listprogress.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/listprogress)
 
 ---
 
@@ -87,8 +73,8 @@ Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.
 Sistema desktop para análise e exploração de dados musicais.  
 **Stack:** Python • DuckDB • Pandas • Tkinter  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20musicanalyser-demo-green?style=for-the-badge&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/musicanalyser)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://musicanalyser.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/MusicAnalyser)
 
 ---
 
@@ -97,9 +83,8 @@ Sistema desktop para análise e exploração de dados musicais.
 Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
 **Stack:** React Native • Expo • TypeScript • SQLite  
 
-[![Demo Online](https://img.shields.io/badge/acesse%20TrackGym-Em%20construção...-lightgray?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
-
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white&height=20)](https://github.com/devrnrodrigues/trackgym)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/trackgym)
 
 <div>
   <h2 align="center">
