@@ -6,7 +6,7 @@
 
 ---
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=800&center=true&vCenter=true&repeat=false&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;"
   alt="Typing SVG"
 />
 
