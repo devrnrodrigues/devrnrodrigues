@@ -6,16 +6,12 @@
 
 ---
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+FULLSTACK;DESENVOLVENDO+SOLUCOES;PEDREIRO+DE+SOFTWARE"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;"
   alt="Typing SVG"
 />
 
-<p align="left">
-  Olá, me chamo Renan Rodrigues. Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor com foco em Backend.
-  Desenvolvo APIs e aplicações,
-  com atenção à <strong>organização de código</strong>,
-  <strong>boas práticas</strong> e
-  <strong>arquitetura de sistemas</strong>.
+<p align="center">
+Construo sistemas responsivos com arquitetura organizada, validação de dados, autenticação via JWT e persistência em banco relacional. Aqui reúno projetos com desenvolvimento full cycle, deploy funcional, documentação clara e atenção à experiência do usuário.
 </p>
 
 </div>
@@ -46,45 +42,49 @@
 
 ---
 
-# 💻 Projetos:
+# 💻 Principais projetos:
 
 #### Meu Portfólio  
 
-Sistema web para apresentação de projetos, habilidades, contato e informações pessoais.  
+Portfólio web responsivo com HTML semântico, interações dinâmicas em JavaScript e estrutura organizada para apresentação clara de projetos e habilidades.
+
 **Stack:** HTML • CSS • JavaScript  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://devrenanrodrigues.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/myportfolio)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/myportfolio)
 
 ---
 
 #### ListProgress  
 
-Sistema web para gerenciamento de metas, tarefas e acompanhamento de progresso.  
-**Stack:** TypeScript • Express • Node.js • React • PostgreSQL
+Sistema fullstack para gerenciamento de metas, com autenticação JWT, hash de senhas com bcrypt, proteção de rotas e isolamento de dados por usuário, estruturado em arquitetura em camadas (Controller, Service e Repository).
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://listprogress.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/listprogress)
+**Stack:** TypeScript • Express • Node.js • Vite • React • PostgreSQL
+
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/listprogress)
 
 ---
 
 #### MusicAnalyser  
 
-Sistema desktop para análise e exploração de dados musicais.  
+Aplicação desktop para análise de dados musicais com processamento eficiente via DuckDB, suportando múltiplos formatos (CSV, Excel, JSON, Parquet) e validação automática de dados.
+
 **Stack:** Python • DuckDB • Pandas • Tkinter  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white&height=20)](https://musicanalyser.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/MusicAnalyser)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/MusicAnalyser)
 
 ---
 
 #### TrackGym  
 
-Sistema mobile para gerenciamento de treinos *(Em desenvolvimento ativo 🚀)*  
+Aplicativo mobile para gerenciamento de treinos, com organização semanal, cadastro personalizado de exercícios e persistência local de dados. *(Em desenvolvimento ativo...)*  
+
 **Stack:** React Native • Expo • TypeScript • SQLite  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white&height=20)](https://github.com/devrnrodrigues/trackgym)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white&height=20)](https://github.com/devrnrodrigues/trackgym)
+[![Demo Online](https://img.shields.io/badge/Acesse%20o%20TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
 
 <div>
   <h2 align="center">
