@@ -50,7 +50,7 @@ Portfólio web responsivo com HTML semântico, interações dinâmicas em JavaSc
 
 **Stack:** HTML • CSS • JavaScript  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
+[![Demo Online](https://img.shields.io/badge/Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/myportfolio)
 
 ---
@@ -61,7 +61,7 @@ Sistema fullstack para gerenciamento de metas, com autenticação JWT, hash de s
 
 **Stack:** TypeScript • Express • Node.js • Vite • React • PostgreSQL
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
+[![Demo Online](https://img.shields.io/badge/ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/listprogress)
 
 ---
@@ -72,7 +72,7 @@ Aplicação desktop para análise de dados musicais com processamento eficiente 
 
 **Stack:** Python • DuckDB • Pandas • Tkinter  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
+[![Demo Online](https://img.shields.io/badge/MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/MusicAnalyser)
 
 ---
@@ -83,7 +83,7 @@ Aplicativo mobile para gerenciamento de treinos, com organização semanal, cada
 
 **Stack:** React Native • Expo • TypeScript • SQLite  
 
-[![Demo Online](https://img.shields.io/badge/Acesse%20o%20TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
+[![Demo Online](https://img.shields.io/badge/TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
 
 <div>
