@@ -11,7 +11,7 @@
 />
 
 <p align="center">
-Atualmente, venho construindo sistemas completos, desde a concepção da ideia até a implementação da lógica de negócio e bancos de dados. Meu foco é a criação de soluções com excelência na experiência do usuário, seguindo os princípios de design centrado no usuário. Também priorizo a construção de arquiteturas organizadas e escaláveis, com validação consistente de dados, autenticação segura e boas práticas de desenvolvimento, buscando manter sempre um código limpo, legível e de fácil manutenção.
+Atualmente, venho construindo sistemas completos, desde a concepção da ideia até a implementação da lógica de negócio e banco de dados. Meu foco é a criação de soluções com excelência na experiência do usuário, seguindo os princípios de design centrado no usuário. Também priorizo a construção de arquiteturas organizadas e escaláveis, com validação consistente de dados, autenticação segura e boas práticas de desenvolvimento, buscando manter sempre um código limpo, legível e de fácil manutenção.
 </p>
 
 </div>
@@ -106,8 +106,5 @@ Aplicativo mobile para gerenciamento de treinos, com organização semanal, cada
 
 ---
   
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,120:EAEAEA&height=150&section=header&animation=fadeIn" 
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=150&section=footer" width="100%">
 </div>
