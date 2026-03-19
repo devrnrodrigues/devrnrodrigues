@@ -5,7 +5,7 @@
 <img src="https://github.com/devrnrodrigues/devrnrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=ENGENHEIRO+DE+SOFTWARE;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;" />
 
 <p align="center">
 Meu foco é em criar aplicações com boa experiência para o usuário, seguindo princípios de design centrado no usuário. Busco desenvolver sistemas organizados e escaláveis, aplicando validação de dados, autenticação e boas práticas de desenvolvimento. Procuro escrever código limpo, legível e fácil de manter, sempre aprendendo e evoluindo como desenvolvedor.
