@@ -74,15 +74,6 @@ Aplicação desktop para análise de dados musicais com processamento eficiente 
 
 ---
 
-#### TrackGym  
-
-Aplicativo mobile para gerenciamento de treinos, com organização semanal, cadastro personalizado de exercícios e persistência local de dados. *(Em desenvolvimento ativo...)*  
-
-**Stack:** React Native • Expo • TypeScript • SQLite  
-
-[![Demo Online](https://img.shields.io/badge/TrackGym-Em%20Construção...-9CA3AF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/devrnrodrigues/trackgym)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/trackgym)
-
 <div>
   <h2 align="center">
  📩 CONTATO:
@@ -101,7 +92,5 @@ Aplicativo mobile para gerenciamento de treinos, com organização semanal, cada
      alt="Visitas" 
      style="margin: 50px;" />
 
----
-  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=150&section=footer" width="100%">
 </div>
