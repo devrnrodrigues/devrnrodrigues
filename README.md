@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;" />
 
 <p align="center">
-Tenho foco em desenvolver aplicações full stack com ótima experiência do usuário, aplicando design centrado nas pessoas e boas práticas de arquitetura. Busco criar sistemas organizados e seguros, com validação de dados e autenticação bem estruturadas, sempre priorizando código limpo, legível e de fácil manutenção, enquanto evoluo continuamente como desenvolvedor.
+Busco me tornar um desenvolvedor de ponta. Tenho trabalhado em diversos projetos aqui no GitHub para aprimorar minhas habilidades e explorar novas tecnologias.
 </p>
 
 </div>
