@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;" />
 
 <p align="center">
-Atualmente estou focado em desenvolver projetos, criar e arquitetar sistemas do zero, cada dia me aprimorando.
+Desenvolvedor Full Stack, com foco em Back End. Atualmente estou focado em desenvolver projetos, criar e arquitetar sistemas do zero, e me aprimorar para me tornar um profissional completo.
 </p>
 
 </div>
