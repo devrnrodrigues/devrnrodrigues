@@ -41,17 +41,6 @@ Desenvolvedor Full Stack, com foco em Back End. Atualmente meu foco é em desenv
 
 # 💻 Principais projetos:
 
-#### Meu Portfólio  
-
-Portfólio web responsivo com HTML semântico, interações dinâmicas em JavaScript e estrutura organizada para apresentação clara de projetos e habilidades.
-
-**Stack:** HTML • CSS • JavaScript  
-
-[![Demo Online](https://img.shields.io/badge/Portfolio-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://devrenanrodrigues.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/myportfolio)
-
----
-
 #### ListProgress  
 
 Sistema fullstack para gerenciamento de metas, com autenticação JWT, hash de senhas com bcrypt, proteção de rotas e isolamento de dados por usuário, estruturado em arquitetura em camadas (Controller, Service e Repository).
