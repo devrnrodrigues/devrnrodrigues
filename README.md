@@ -5,15 +5,35 @@
 <img src="https://github.com/devrnrodrigues/devrnrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=5000&pause=800&center=true&vCenter=true&repeat=true&width=600&height=50&color=3B82F6&lines=DESENVOLVEDOR+DE+SOFTWARE;" />
-
-<p align="center">
-Desenvolvedor Full Stack, com foco em Back End. Atualmente meu foco é em desenvolver projetos, criar e arquitetar sistemas do zero, e me aprimorar para me tornar um profissional completo.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=8000&pause=2500&center=true&vCenter=true&repeat=true&width=650&height=50&color=0096FF&lines=DESENVOLVEDOR+DE+SOFTWARE" />
 
 </div>
 
-# 🔧 Tecnologias que utilizo:
+<p align="left">
+  
+## Sobre mim
+
+Olá, primeiramente, seja **bem-vindo** ao meu perfil!
+
+Tenho 24 anos e sou do Rio de Janeiro 🇧🇷.
+
+Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Embora meu principal foco seja o Backend, também tenho grande interesse por UI/UX e Web Design.
+
+*Acredito que tecnologia é uma ferramenta para resolver problemas reais.*
+
+## Interesses
+
+Além da programação, gosto de aprender sobre:
+
+- Cybersegurança, lógica e resolução de problemas;
+- Hardware e principais componentes de computador;
+- Filosofia moderna e o sentido da vida;
+- Conceitos de psicologia e funcionamento do cérebro;
+- Musculação, saúde e desenvolvimento físico.
+  
+</p>
+
+## Tecnologias
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -36,30 +56,6 @@ Desenvolvedor Full Stack, com foco em Back End. Atualmente meu foco é em desenv
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
----
-
-# 💻 Principais projetos:
-
-#### ListProgress  
-
-Sistema fullstack para gerenciamento de metas, com autenticação JWT, hash de senhas com bcrypt, proteção de rotas e isolamento de dados por usuário, estruturado em arquitetura em camadas (Controller, Service e Repository).
-
-**Stack:** TypeScript • Express • Node.js • Vite • React • PostgreSQL
-
-[![Demo Online](https://img.shields.io/badge/ListProgress-Deploy-Green?style=flat-square&logo=vercel&logoColor=white)](https://listprogress.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/listprogress)
-
----
-
-#### MusicAnalyser  
-
-Aplicação desktop para análise de dados musicais com processamento eficiente via DuckDB, suportando múltiplos formatos (CSV, Excel, JSON, Parquet) e validação automática de dados.
-
-**Stack:** Python • DuckDB • Pandas • Tkinter  
-
-[![Demo Online](https://img.shields.io/badge/MusicAnalyser-Demo-Green?style=flat-square&logo=vercel&logoColor=white)](https://musicanalyser.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devrnrodrigues/MusicAnalyser)
 
 ---
 
