@@ -26,7 +26,6 @@ Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou
 Além da programação, gosto de aprender sobre:
 
 - Cybersegurança, lógica e resolução de problemas;
-- Hardware e principais componentes de computador;
 - Filosofia moderna e o sentido da vida;
 - Conceitos de psicologia e funcionamento do cérebro;
 - Musculação, saúde e desenvolvimento físico.
