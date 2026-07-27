@@ -17,7 +17,7 @@ Olá, primeiramente, seja **bem-vindo** ao meu perfil!
 
 Tenho 24 anos e sou do Rio de Janeiro 🇧🇷.
 
-Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Embora meu principal foco seja o Backend, também tenho grande interesse por UI/UX e Web Design.
+Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Embora meu principal foco seja o Backend, também tenho conhecimentos em UI/UX e Web Design.
 
 *Acredito que tecnologia é uma ferramenta para resolver problemas reais.*
 
