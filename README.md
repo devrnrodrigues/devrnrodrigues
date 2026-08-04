@@ -13,7 +13,7 @@
   
 ## Sobre mim
 
-Olá, primeiramente, seja **bem-vindo** ao meu perfil!
+Olá, seja **bem-vindo** ao meu perfil!
 
 Tenho 24 anos e sou do Rio de Janeiro 🇧🇷.
 
