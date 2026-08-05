@@ -11,7 +11,7 @@
 
 <p align="left">
   
-## Sobre mim
+## Sobre mim:
 
 Olá, seja **bem-vindo** ao meu perfil!
 
@@ -21,7 +21,7 @@ Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou
 
 *Acredito que tecnologia é uma ferramenta para resolver problemas reais.*
 
-## Interesses
+## Interesses:
 
 Além da programação, gosto de aprender sobre:
 
@@ -32,7 +32,7 @@ Além da programação, gosto de aprender sobre:
   
 </p>
 
-## Tecnologias
+## Tecnologias:
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
