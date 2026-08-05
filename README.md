@@ -5,7 +5,7 @@
 <img src="https://github.com/devrnrodrigues/devrnrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=8000&pause=2500&center=true&vCenter=true&repeat=true&width=650&height=50&color=0096FF&lines=DESENVOLVEDOR+DE+SOFTWARE" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b64bf&size=40&center=true&vCenter=true&width=1000&lines=DESENVOLVEDOR+DE+SOFTWARE)
 
 </div>
 
@@ -17,7 +17,7 @@ Olá, seja **bem-vindo** ao meu perfil!
 
 Tenho 24 anos e sou do Rio de Janeiro 🇧🇷.
 
-Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Embora meu principal foco seja o Backend, também tenho conhecimentos em UI/UX e Web Design.
+Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Meu principal foco é o Backend, mas possuo conhecimento em todo ciclo de Desenvolvimento e também na área de Frontend.
 
 *Acredito que tecnologia é uma ferramenta para resolver problemas reais.*
 
