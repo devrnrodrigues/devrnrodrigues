@@ -5,7 +5,7 @@
 <img src="https://github.com/devrnrodrigues/devrnrodrigues/blob/main/banner.png" alt="Banner" width="100%"/>
 
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b64bf&size=40&center=true&vCenter=true&width=1000&lines=DESENVOLVEDOR+DE+SOFTWARE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b64bf&size=50&center=true&vCenter=true&width=1000&lines=DESENVOLVEDOR+DE+SOFTWARE)
 
 </div>
 
