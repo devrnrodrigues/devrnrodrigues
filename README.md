@@ -19,7 +19,7 @@ Tenho 24 anos e sou do Rio de Janeiro 🇧🇷.
 
 Programo desde os 19 anos e sempre fui obsecado por tecnologia. Atualmente estou me especializando em Java e cursando minha 2ª graduação em Engenharia de Software. Meu principal foco é o Backend, mas possuo conhecimento em todo ciclo de Desenvolvimento e também na área de Frontend.
 
-*Acredito que tecnologia é uma ferramenta para resolver problemas reais.*
+*Acredito que tecnologias são apenas ferramentas para resolver problemas.*
 
 ## Interesses:
 
